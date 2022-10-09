@@ -1,0 +1,7 @@
+hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmedian /user/edureka/ranga /Ranganathan/median 
+
+hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /user/edureka/ranga /Ranganathan/wordcount
+
+hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /user/edureka/ranga /Ranganathan/wordmean
+
+hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordstandarddeviation /user/edureka/ranga /Ranganathan/standarddeviation
